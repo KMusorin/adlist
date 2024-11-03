@@ -20,3 +20,9 @@
 0.0.0.0 nrdp.nccp.netflix.com
 0.0.0.0 secure.netflix.com
 0.0.0.0 osb-apps.samsungqbe.com
+0.0.0.0 samsungads.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 business.samsungusa.com
