@@ -1,22 +1,22 @@
-samsung.com
-test.samsungotn.net
-cdn.samsungcloudsolution.com
-osb.samsungqbe.com
-samsungcloudsolution.com
-rsch.samsungcloudsolution.com
-ims.samsungcloudsolution.com
-gpm.samsungqbe.com
-empdownprd.samsungcloudsolution.com
-notice.samsungcloudsolution.com
-samsungotn.net
-log-config.samsungacr.com
-lcprd1.samsungcloudsolution.net
-oempprd.samsungcloudsolution.com
-osb-krsvc.samsungqbe.com
-noticecdn.samsungcloudsolution.com
-api-global.netflix.com
-appboot.netflix.com
-cloudfront.net
-nrdp.nccp.netflix.com
-secure.netflix.com
-osb-apps.samsungqbe.com
+0.0.0.0 samsung.com
+0.0.0.0 test.samsungotn.net
+0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 osb.samsungqbe.com
+0.0.0.0 samsungcloudsolution.com
+0.0.0.0 rsch.samsungcloudsolution.com
+0.0.0.0 ims.samsungcloudsolution.com
+0.0.0.0 gpm.samsungqbe.com
+0.0.0.0 empdownprd.samsungcloudsolution.com
+0.0.0.0 notice.samsungcloudsolution.com
+0.0.0.0 samsungotn.net
+0.0.0.0 log-config.samsungacr.com
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 oempprd.samsungcloudsolution.com
+0.0.0.0 osb-krsvc.samsungqbe.com
+0.0.0.0 noticecdn.samsungcloudsolution.com
+0.0.0.0 api-global.netflix.com
+0.0.0.0 appboot.netflix.com
+0.0.0.0 cloudfront.net
+0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 secure.netflix.com
+0.0.0.0 osb-apps.samsungqbe.com
